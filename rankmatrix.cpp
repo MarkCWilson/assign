@@ -98,8 +98,6 @@ void RankMatrix::cdf() // gives cumulative probability of getting item at least 
 }
 
 
-
-
 //functions
 
 vector<double> RankMatrix::utilscore (vector<double> w) // score given weight vector
