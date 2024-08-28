@@ -44,7 +44,7 @@ int StrictPref::numcands() const // number of candidates
 	return _v.size();	
 }
 
-int StrictPref::get(int c) // initialize a particular element
+int StrictPref::get(int c) // retrieve a particular element
 	{
 		return _v[c];	
 	}
